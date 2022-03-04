@@ -15,8 +15,8 @@ Three folders are provided for the 12S, cox1 and MLST phylogenitic analysis. Eac
 
 > epa_result--cox1.jplace: EPA-ng output file for phylogenitic placement of query sequences.
 
-[foo]: /url "title" 
-<p><a href="/url" title="title">foo</a></p>
+[foo]: /https://github.github.com/gfm/#link-reference-definitions "conda" 
+<p><a href="/https://github.github.com/gfm/#link-reference-definitions" title="conda">foo</a></p>
 
 # Annotation files used to annotate the tree within iTOL software
 
