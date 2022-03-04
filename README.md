@@ -46,9 +46,11 @@ Three folders (i.e., 12S, cox1 and MLST) are provided. Each of them containing t
 
 # Final *.jplace Files are Available as Pre-edited Trees
 
-> [Cox1 Tree: [cox1.jpalce](https://itol.embl.de/tree/1095222034364991637522955)]
-> [12S Tree: [12S.jpalce](https://itol.embl.de/tree/1095222034318181637538254)]
-> [MLST Tree: [MLST.jpalce](https://itol.embl.de/tree/109522205480771637547090)] 
+> [Fig. 1: [cox1.jpalce](https://itol.embl.de/tree/1095222034364991637522955)]
+
+> [Fig. 2: [12S.jpalce](https://itol.embl.de/tree/1095222034318181637538254)]
+
+> [Fig. 3: [MLST.jpalce](https://itol.embl.de/tree/109522205480771637547090)] 
 
 
 # Softwares
