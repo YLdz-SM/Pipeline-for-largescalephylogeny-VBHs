@@ -15,12 +15,7 @@ Three folders are provided for the 12S, cox1 and MLST phylogenitic analysis. Eac
 
 > epa_result--cox1.jplace: EPA-ng output file for phylogenitic placement of query sequences.
 
-[Phylogenitic placement[EPA-ng](https://github.com/Pbdas/epa-ng.git)](https://github.com/Pbdas/epa-ng.git)
-[![Conda install](https://anaconda.org/bioconda/epa-ng/badges/downloads.svg)](https://anaconda.org/bioconda/epa-ng)
-[![ubuntu CI status](https://github.com/Pbdas/epa-ng/workflows/build&test_ubuntu/badge.svg)](https://github.com/Pbdas/epa-ng/actions)
-[![macOS CI status](https://github.com/Pbdas/epa-ng/workflows/build&test_macos/badge.svg)](https://github.com/Pbdas/epa-ng/actions)
-[![Softwipe Score](https://img.shields.io/badge/softwipe-e8.0-blue)](https://github.com/adrianzap/softwipe/wiki/Code-Quality-Benchmark)
-[![Gitter chat](https://badges.gitter.im/Pbdas/epa-ng.png)](https://gitter.im/epa-ng/Lobby)
+[Phylogenitic placement[EPA-ng](https://github.com/Pbdas/epa-ng.git)]
 
 # Annotation files used to annotate the tree within iTOL software
 
