@@ -32,7 +32,7 @@ Three folders (i.e., 12S, cox1 and MLST) are provided. Each of them containing t
 
 
 
-## Annotation files used to annotate the tree within iTOL software
+## Files used to annotate the tree
 
 > Labels.txt: Sequence labels 
 
