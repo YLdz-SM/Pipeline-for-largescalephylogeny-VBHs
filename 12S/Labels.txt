@@ -1,0 +1,79 @@
+LABELS
+#use this template to change the leaf labels, or define/change the internal node names (displayed in mouseover popups)
+
+#lines starting with a hash are comments and ignored during parsing
+
+#=================================================================#
+#                    MANDATORY SETTINGS                           #
+#=================================================================#
+#select the separator which is used to delimit the data below (TAB,SPACE or COMMA).This separator must be used throughout this file (except in the SEPARATOR line, which uses space).
+
+SEPARATOR TAB
+#SEPARATOR SPACE
+#SEPARATOR COMMA
+
+#Internal tree nodes can be specified using IDs directly, or using the 'last common ancestor' method described in iTOL help pages
+#=================================================================#
+#       Actual data follows after the "DATA" keyword              #
+#=================================================================#
+DATA
+#NODE_ID,LABEL
+
+#Examples
+#defined a name for an internal node
+
+#change the label for leaf node 9606
+AJ537512	AJ537512: D.immitis
+HQ540423	HQ540423: D.immitis
+KM205415	KM205415: D.immitis
+KU885998	KU885998: D.immitis
+KY828986	KY828986: D. ursi
+MN635456	MN635456: D. striata
+KX265048	KX265049: D. repens
+AM779775	AM779775: D. repens
+AM779773	AM779773: D. repens
+AM779778	AM779778: D. repens
+AJ544832	AJ544832: D. repens
+KP760331	KP760331: D. repens
+KC953031	KC953031: D. repens
+KP898737	KP898737: D. repens
+KR676613	KR676613: D. repens
+GQ292761	GQ292761: D. repens
+KU885999	KU885999: D. repens
+MW242630	MW242630: D. repens
+KP898736	KP898736: D. repens
+AM779776	AM779776: D. repens
+KY750550	KY750550: D. hongkongensis
+MH823371	MH823371: Dirofilaria sp. 'Thailand II'
+AJ544853	AJ544853: A. reconditum
+MZ678927	MZ678927: A. reconditum
+KP898741	KP898741: A. reconditum
+KP898744	KP898744: A. reconditum
+KP898743	KP898743: A. reconditum
+KP898740	KP898740: A. reconditum
+KY677825	KY677825: A. reconditum
+MW266120	MW266120: O. lupi
+KX853320	KX853320: O. lupi
+GU365879	GU365879: O. lupi
+JN863696	JN863696: O. lupi
+HQ207645	HQ207645: O. lupi
+KP347443	KP347443: O. lupi
+AF538716	AF538716: B. malayi
+MT149211	MT149211: B. malayi
+AJ544843	AJ544843: B. malayi
+MT808311	MT808311: B. malayi
+AP017680	AP017680: B. pahangi
+KP760318	KP760318: B. pahangi
+AP017700	AP017700: T. callipaeda
+MF795599	MF795599: T. callipaeda
+MF795606	MF795606: T. callipaeda
+MF795608	MF795608: T. callipaeda
+JX069968	JX069968: T. callipaeda
+MF795614	MF795614: T. callipaeda
+MF795616	MF795616: T. callipaeda
+KY908320	KY908320: T. callipaeda
+MF795625	MF795625: T. callipaeda
+MF795630	MF795630: T. callipaeda
+KY908318	KY908318: T. callipaeda
+KY908319	KY908319: T. callipaeda
+MW055452	MW055452: T. californiensis

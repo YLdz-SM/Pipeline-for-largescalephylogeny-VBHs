@@ -1,0 +1,93 @@
+LABELS
+#use this template to change the leaf labels, or define/change the internal node names (displayed in mouseover popups)
+
+#lines starting with a hash are comments and ignored during parsing
+
+#=================================================================#
+#                    MANDATORY SETTINGS                           #
+#=================================================================#
+#select the separator which is used to delimit the data below (TAB,SPACE or COMMA).This separator must be used throughout this file (except in the SEPARATOR line, which uses space).
+
+SEPARATOR TAB
+#SEPARATOR SPACE
+#SEPARATOR COMMA
+
+#Internal tree nodes can be specified using IDs directly, or using the 'last common ancestor' method described in iTOL help pages
+#=================================================================#
+#       Actual data follows after the "DATA" keyword              #
+#=================================================================#
+DATA
+#NODE_ID,LABEL
+
+#Examples
+#defined a name for an internal node
+
+#change the label for leaf node 9606
+AJ537512	AJ537512: D.immitis
+HQ540424	HQ540424: D.immitis
+KY347824	KY347824: D.immitis
+KY828981	KY828981: D. ursi
+MN635457	MN635457: D. striata
+KX265049	KX265049: D. repens
+AM749230	AM749230: D. repens
+AM749231	AM749231: D. repens
+AM749234	AM749234: D. repens
+AJ271614	AJ271614: D. repens
+KP760185	KP760185: D. repens
+MN061866	MN061866: D. repens
+KY750550	KY750550: D. hongkongensis
+MH823371	MH823371: Dirofilaria sp. 'Thailand II'
+KY085963	KY085963: Dirofilaria sp. '1 GM-2017'
+AJ544876	AJ544876: A. reconditum
+MW266120	MW266120: O. lupi
+KX853327	KX853327: O. lupi
+KX132091	KX132091: O. lupi
+AF538716	AF538716: B. malayi
+MT149211	MT149211: B. malayi
+MK250713	MK250713: B. malayi
+AJ271610	AJ271610: B. malayi
+MK250712	MK250712: B. malayi
+MK250714	MK250714: B. malayi
+MK250725	MK250725: B. malayi
+MK250728	MK250728: B. malayi
+MK250753	MK250753: B. malayi
+MN564741	MN564741: B. malayi
+AP017680	AP017680: B. pahangi
+KP760172	KP760172: B. pahangi
+MK250707	MK250707: B. pahangi
+MK250710	MK250710: B. pahangi
+MK250722	MK250722: B. pahangi
+DQ977746	DQ977746: B. pahangi
+EF534735	EF534735: B. pahangi
+MT027204	MT027204: B. pahangi
+AP017700	AP017700: T. callipaeda
+AM042550	AM042550: T. callipaeda
+AM042551	AM042551: T. callipaeda
+AM042552	AM042552: T. callipaeda
+AM042553	AM042553: T. callipaeda
+AM042554	AM042554: T. callipaeda
+AM042555	AM042555: T. callipaeda
+AM042556	AM042556: T. callipaeda
+AB538283	AB538283: T. callipaeda
+AB852546	AB852546: T. callipaeda
+AB852544	AB852544: T. callipaeda
+AB852545	AB852545: T. callipaeda
+MF795663	MF795663: T. callipaeda
+MF795670	MF795670: T. callipaeda
+MF795672	MF795672: T. callipaeda
+JX069968	JX069968: T. callipaeda
+MF795678	MF795678: T. callipaeda
+MF795680	MF795680: T. callipaeda
+KY908320	KY908320: T. callipaeda
+MF795689	MF795689: T. callipaeda
+MF795694	MF795694: T. callipaeda
+KY908318	KY908318: T. callipaeda
+KY908319	KY908319: T. callipaeda
+MN719911	MN719911: T. callipaeda
+MN719908	MN719908: T. callipaeda
+MN719913	MN719913: T. callipaeda
+MT040343	MT040343: T. callipaeda
+MT040342	MT040342: T. callipaeda
+MW055240	MW055240: T. californiensis
+MW055239	MW055239: T. californiensis
+AB852551	AB852551: Thelazia sp. D2-1

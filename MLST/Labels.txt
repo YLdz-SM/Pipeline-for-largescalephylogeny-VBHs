@@ -1,0 +1,58 @@
+LABELS
+#use this template to change the leaf labels, or define/change the internal node names (displayed in mouseover popups)
+
+#lines starting with a hash are comments and ignored during parsing
+
+#=================================================================#
+#                    MANDATORY SETTINGS                           #
+#=================================================================#
+#select the separator which is used to delimit the data below (TAB,SPACE or COMMA).This separator must be used throughout this file (except in the SEPARATOR line, which uses space).
+
+SEPARATOR TAB
+#SEPARATOR SPACE
+#SEPARATOR COMMA
+
+#Internal tree nodes can be specified using IDs directly, or using the 'last common ancestor' method described in iTOL help pages
+#=================================================================#
+#       Actual data follows after the "DATA" keyword              #
+#=================================================================#
+DATA
+#NODE_ID,LABEL
+
+#Examples
+#defined a name for an internal node
+
+#change the label for leaf node 9606
+AJ537512	AJ537512: D.immitis
+HQ540424	HQ540424: D.immitis
+KY828981	KY828981: D. ursi
+MN635457	MN635457: D. striata
+KX265049	KX265049: D. repens
+AM749230	AM749230: D. repens
+AM749231	AM749231: D. repens
+AM749234	AM749234: D. repens
+AJ271614	AJ271614: D. repens
+KP760185	KP760185: D. repens
+KY750550	KY750550: D. hongkongensis
+MH823371	MH823371: Dirofilaria sp. 'Thailand II'
+AJ544876	AJ544876: A. reconditum
+MW266120	MW266120: O. lupi
+KX853327	KX853327: O. lupi
+AF538716	AF538716: B. malayi
+MT149211	MT149211: B. malayi
+AJ271610	AJ271610: B. malayi
+AP017680	AP017680: B. pahangi
+KP760172	KP760172: B. pahangi
+AP017700	AP017700: T. callipaeda
+MF795663	MF795663: T. callipaeda
+MF795670	MF795670: T. callipaeda
+MF795672	MF795672: T. callipaeda
+JX069968	JX069968: T. callipaeda
+MF795678	MF795678: T. callipaeda
+MF795680	MF795680: T. callipaeda
+KY908320	KY908320: T. callipaeda
+MF795689	MF795689: T. callipaeda
+MF795694	MF795694: T. callipaeda
+KY908318	KY908318: T. callipaeda
+KY908319	KY908319: T. callipaeda
+MW055240	MW055240: T. californiensis

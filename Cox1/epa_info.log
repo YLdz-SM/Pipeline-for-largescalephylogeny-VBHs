@@ -1,0 +1,22 @@
+INFO Selected: Output dir: ResultEPAng/
+INFO Selected: Query file: Query.aln
+INFO Selected: Tree file: TREE.txt
+INFO Selected: Reference MSA: RefMSA-cox1.aln
+INFO Selected: Automatic switching of use of per rate scalers
+INFO Selected: Preserving the root of the input tree
+INFO Selected: Disabling the prescoring heuristics.
+INFO Selected: Specified model file: infofile
+INFO Selected: Using threads: 2
+INFO     ______ ____   ___           _   __ ______
+        / ____// __ \ /   |         / | / // ____/
+       / __/  / /_/ // /| | ______ /  |/ // / __  
+      / /___ / ____// ___ |/_____// /|  // /_/ /  
+     /_____//_/    /_/  |_|      /_/ |_/ \____/ (v0.3.8)
+INFO Using model parameters:
+INFO    Rate heterogeneity: GAMMA (4 cats, mean),  alpha: 0.49045 (user),  weights&rates: (0.25,0.0316316) (0.25,0.245636) (0.25,0.813193) (0.25,2.90954) 
+        Base frequencies (user): 0.19528 0.122688 0.209179 0.472853 
+        Substitution rates (user): 1.2765 25.9564 2.9017 1.0948 7.0606 1
+INFO Output file: ResultEPAng/epa_result.jplace
+INFO 546 Sequences done!
+INFO Time spent placing: 20s
+INFO Elapsed Time: 20s

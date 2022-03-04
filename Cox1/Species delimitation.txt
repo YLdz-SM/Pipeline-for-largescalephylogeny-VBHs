@@ -1,0 +1,183 @@
+DATASET_COLORSTRIP
+#In colored strip datasets, each ID is associated to a color box/strip and can have an optional label. Color can be specified in hexadecimal, RGB or RGBA notation. When using RGB or RGBA notation, you cannot use COMMA as the dataset separator
+
+#lines starting with a hash are comments and ignored during parsing
+
+#=================================================================#
+#                    MANDATORY SETTINGS                           #
+#=================================================================#
+#select the separator which is used to delimit the data below (TAB,SPACE or COMMA).This separator must be used throughout this file.
+
+#SEPARATOR TAB
+#SEPARATOR COMMA
+SEPARATOR SPACE
+
+#label is used in the legend table (can be changed later)
+DATASET_LABEL Haplotype delineation
+
+#dataset color (can be changed later)
+COLOR #ff0000
+
+#=================================================================#
+#                    OPTIONAL SETTINGS                            #
+#=================================================================#
+
+#If COLOR_BRANCHES is set to 1, branches of the tree will be colored according to the colors of the strips above the leaves.
+#When all children of a node have the same color, it will be colored the same, ie. the color will propagate inwards towards the root.
+COLOR_BRANCHES 0
+
+
+#=================================================================#
+#     all other optional settings can be set or changed later     #
+#           in the web interface (under 'Datasets' tab)           #
+#=================================================================#
+
+#Each dataset can have a legend, which is defined using LEGEND_XXX fields below
+#For each row in the legend, there should be one shape, color and label.
+#Optionally, you can define an exact legend position using LEGEND_POSITION_X and LEGEND_POSITION_Y. To use automatic legend positioning, do NOT define these values
+#Optionally, shape scaling can be present (LEGEND_SHAPE_SCALES). For each shape, you can define a scaling factor between 0 and 1.
+#Shape should be a number between 1 and 6, or any protein domain shape definition.
+#1: square
+#2: circle
+#3: star
+#4: right pointing triangle
+#5: left pointing triangle
+#6: checkmark
+
+#LEGEND_TITLE Dataset_legend
+#LEGEND_POSITION_X 100
+#LEGEND_POSITION_Y 100
+#LEGEND_SHAPES 1 1 2 2
+#LEGEND_COLORS #ff0000 #00ff00 rgba(0,255,0,0.5) #0000ff
+#LEGEND_LABELS value1 value2 value3 value4
+#LEGEND_SHAPE_SCALES 1 1 0.5 1
+
+#width of the colored strip
+#STRIP_WIDTH 25
+
+#left margin, used to increase/decrease the spacing to the next dataset. Can be negative, causing datasets to overlap.
+#MARGIN 0
+
+#border width; if set above 0, a border of specified width (in pixels) will be drawn around the color strip 
+#BORDER_WIDTH 0
+
+#border color; used when BORDER_WIDTH is above 0
+#BORDER_COLOR #0000ff
+
+#if set to 1, border will be drawn completely around each colored strip box
+#COMPLETE_BORDER 0
+
+#always show internal values; if set, values associated to internal nodes will be displayed even if these nodes are not collapsed. It could cause overlapping in the dataset display.
+#SHOW_INTERNAL 0
+
+
+#display or hide the individual label inside each colored strip (when defined in the data below)
+#SHOW_STRIP_LABELS 1
+
+#position of the strip label within the box; 'top', 'center' or 'bottom'
+#STRIP_LABEL_POSITION center
+
+#strip label size factor (relative to the tree leaf labels)
+#STRIP_LABEL_SIZE_FACTOR 1
+
+
+#rotation of the strip labels; used only in rectangular tree display mode
+#STRIP_LABEL_ROTATION 0
+
+#strip label shift in pixels (positive or negative)
+#STRIP_LABEL_SHIFT 0
+
+#STRIP_LABEL_COLOR #000000
+
+#draw a black outline around the text (width in pixels)
+#STRIP_LABEL_OUTLINE 0.5
+
+#display or hide the dataset label above the colored strip
+#SHOW_LABELS 1
+
+#dataset label size factor
+#SIZE_FACTOR 1
+
+#dataset label rotation
+#LABEL_ROTATION 0
+
+#dataset label shift in pixels (positive or negative)
+#LABEL_SHIFT 0
+
+#Internal tree nodes can be specified using IDs directly, or using the 'last common ancestor' method described in iTOL help pages
+
+#=================================================================#
+#       Actual data follows after the "DATA" keyword              #
+#=================================================================#
+DATA
+
+#Examples:
+#assign a red colored strip to leaf 9606, with label 'Human'
+AJ537512 #0000FF H1
+HQ540424 #8B008B H2
+KY347824 #00CED1 H3
+KY828981 #0000FF H1†
+MN635457 #0000FF H1
+KX265049 #0000FF H1
+AM749230 #0000FF H1*
+AM749231 #0000FF H1*
+AM749234 #0000FF H1*
+AJ271614 #8B008B H2
+KP760185 #00CED1 H3
+MN061866 #20B2AA H4
+KY750550 #0000FF H1
+MH823371 #0000FF H1
+KY085963 #0000FF H1
+AJ544876 #0000FF H1
+MW266120 #0000FF H1
+KX853327 #8B008B H2
+KX132091 #00CED1 H3
+AF538716 #0000FF H1
+MT149211 #8B008B H2
+MK250713 #00CED1 H3
+AJ271610 #20B2AA H4
+MK250712 #FF4500 H5
+MK250714 #8B0000 H6
+MK250725 #7FFF00 H7
+MK250728 #F5DEB3 H8
+MK250753 #A52A2A H9 
+MN564741 #FFFF00 H10 
+AP017680 #0000FF H1
+KP760172 #8B008B H2
+MK250707 #00CED1 H3
+MK250710 #20B2AA H4
+MK250722 #FF4500 H5
+DQ977746 #8B0000 H6
+EF534735 #7FFF00 H7
+MT027204 #F5DEB3 H8
+AP017700 #0000FF H1
+AM042550 #8B008B H2
+AM042551 #00CED1 H3
+AM042552 #20B2AA H4
+AM042553 #FF4500 H5
+AM042554 #8B0000 H6
+AM042555 #7FFF00 H7
+AM042556 #F5DEB3 H8
+AB538283 #A52A2A H9
+AB852546 #FFFF00 H10
+AB852544 #FFD700 H11
+AB852545 #EEE8AA H12
+MF795663 #DDA0DD H13
+MF795670 #B0E0E6 H14
+MF795672 #5F9EA0 H15
+JX069968 #DDA0DD H16
+MF795678 #4B0082 H17
+MF795680 #191970 H18
+KY908320 #7B68EE H19**
+MF795689 #D3D3D3 H20**
+MF795694 #2F4F4F H21**
+KY908318 #7FFFD4 H22**
+KY908319 #FFD700 H23**
+MN719911 #FF4500 H24
+MN719908 #FF69B4 H25
+MN719913 #00CED1 H26
+MT040343 #800080 H27
+MT040342 #000000 H28
+MW055240 #0000FF H1
+MW055239 #8B008B H2
+AB852551 #0000FF H1

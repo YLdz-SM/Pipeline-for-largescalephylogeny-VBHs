@@ -1,0 +1,22 @@
+INFO Selected: Output dir: ResultEPAng/
+INFO Selected: Query file: Quey.fasta
+INFO Selected: Tree file: TREE.txt
+INFO Selected: Reference MSA: RefMSA-MLST.aln
+INFO Selected: Automatic switching of use of per rate scalers
+INFO Selected: Preserving the root of the input tree
+INFO Selected: Disabling the prescoring heuristics.
+INFO Selected: Specified model file: infofile
+INFO Selected: Using threads: 2
+INFO     ______ ____   ___           _   __ ______
+        / ____// __ \ /   |         / | / // ____/
+       / __/  / /_/ // /| | ______ /  |/ // / __  
+      / /___ / ____// ___ |/_____// /|  // /_/ /  
+     /_____//_/    /_/  |_|      /_/ |_/ \____/ (v0.3.8)
+INFO Using model parameters:
+INFO    Rate heterogeneity: GAMMA (4 cats, mean),  alpha: 0.49045 (user),  weights&rates: (0.25,0.0316316) (0.25,0.245636) (0.25,0.813193) (0.25,2.90954) 
+        Base frequencies (user): 0.226711 0.0986549 0.186909 0.487724 
+        Substitution rates (user): 0.0071 11.1697 1.6614 0.5405 2.6171 1
+INFO Output file: ResultEPAng/epa_result.jplace
+INFO 877 Sequences done!
+INFO Time spent placing: 13s
+INFO Elapsed Time: 13s
