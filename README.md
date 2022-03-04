@@ -61,7 +61,7 @@ Three folders (i.e., 12S, cox1 and MLST) are provided. Each of them containing t
 5. [Query Sequence Alignement: [HMMER](https://github.com/EddyRivasLab/hmmer.git)] 
 6. [Phylogenitic placement: [EPA-ng](https://github.com/Pbdas/epa-ng.git)]
 7. [Tree Editing: [iTOL](https://github.com/iBiology/iTOL.git)]
-8. [![iTOL](https://github.com/iBiology/iTOL.git)] (https://itol.embl.de/help.cgi)
+8. [![iTOL](https://itol.embl.de/help.cgi)] (https://github.com/iBiology/iTOL.git)
 
 # Citation
 If you use the above data, please cite the following paper:
