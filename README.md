@@ -59,7 +59,7 @@ Three folders are provided for the 12S, cox1 and MLST phylogenitic analysis. Eac
 4. [ML Phylogeny: [Iqtree2](https://github.com/iqtree/iqtree2.git)] 
 5. [Query Sequence Alignement: [HMMER](https://github.com/EddyRivasLab/hmmer.git)] 
 6. [Phylogenitic placement: [EPA-ng](https://github.com/Pbdas/epa-ng.git)]
-7. [Tree Editing: [iTOL](https://github.com/iBiology/iTOL.git)]
+7. [Tree Editing: [iTOL](https://github.com/iBiology/iTOL.git)] (https://itol.embl.de/help.cgi)
 
 # Citation
 If you use the above data, please cite the following paper:
