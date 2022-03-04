@@ -3,7 +3,7 @@
 
 1. **[Introduction](#Introduction)**
 2. **[Data](#Key-input-and-output-files-used-in-the-present-study)**
-3. **[Results](#Final-*.jplace-Files-are-Available-as-Pre-edited-Trees-in)**
+3. **[Results](#Final-*.jplace-Files-are-Available-as-Pre-edited-Trees)**
 5. **[Softwares](#Softwares)**
 6. **[Citing this repository](#Citation)**
 
@@ -44,7 +44,7 @@ Three folders (i.e., 12S, cox1 and MLST) are provided. Each of them containing t
 
 
 
-# Final *.jplace Files are Available as Pre-edited Trees in
+# Final *.jplace Files are Available as Pre-edited Trees
 
 > cox1 tree: https://itol.embl.de/tree/1095222034364991637522955 
 
