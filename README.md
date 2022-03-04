@@ -15,9 +15,9 @@ Several zoonotic vector-borne helminths (VBHs) infesting canids cause serious ve
 
 
 
-# Key input and output files used in the present study
+# Key input/output files used in the present study
 
-Three folders are provided for the 12S, cox1 and MLST phylogenitic analysis. Each of them containing the following:
+Three folders (i.e., 12S, cox1 and MLST) are provided. Each of them containing the following:
 
 ## Files used to generate the ML phylogeny and phylogenitic placement
 
@@ -59,11 +59,11 @@ Three folders are provided for the 12S, cox1 and MLST phylogenitic analysis. Eac
 4. [ML Phylogeny: [Iqtree2](https://github.com/iqtree/iqtree2.git)] 
 5. [Query Sequence Alignement: [HMMER](https://github.com/EddyRivasLab/hmmer.git)] 
 6. [Phylogenitic placement: [EPA-ng](https://github.com/Pbdas/epa-ng.git)]
-7. [Tree Editing: [iTOL](https://github.com/iBiology/iTOL.git)] (https://itol.embl.de/help.cgi)
+7. [Tree Editing: [iTOL](https://github.com/iBiology/iTOL.git)]
 
 # Citation
 If you use the above data, please cite the following paper:
 
-Younes Laidoudi, Samia Bedjaoui, Maria Stefania Latrofa, Angela Fanelli, Filipe Dantas-Torres, Domenico Otranto. Genetic and geographical delineation of zoonotic vector-borne helminths of canids. Scientific Repport Journalc
+Younes Laidoudi, Samia Bedjaoui, Maria Stefania Latrofa, Angela Fanelli, Filipe Dantas-Torres, Domenico Otranto. Genetic and geographical delineation of zoonotic vector-borne helminths of canids. Scientific Repport Journal
 
 
