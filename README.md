@@ -3,7 +3,7 @@
 
 1. **[Introduction](#Introduction)**
 2. **[Data](#Key-input-and-output-files-used-in-the-present-study)**
-3. **[Other repository](#Jplace-file-used-in-the-paper-are-available-from-the-following-links)**
+3. **[Other repository](#Jplace-file-used-in-the-paper-are-available-as-predited-files-in:)**
 4. **[Softwares](#Softwares)**
 5. **[Citing this repository](#Citation)**
 
@@ -21,13 +21,13 @@ Three folders (i.e., 12S, cox1 and MLST) are provided. Each of them containing t
 
 ## Files used to generate the ML phylogeny and phylogenitic placement
 
-> REFMSA--12S.fasta: Multi-sequence alignement on selected reference sequences
+> REFMSA.fasta: Multi-sequence alignement on selected reference sequences
 
-> Query--12S.fasta: Multi-sequence alignement on all query sequences available from GenBank at January 2022.
+> Query.fasta: Multi-sequence alignement on all query sequences available from GenBank at January 2022.
 
 > TREE features.txt: iqtree output file
 
-> epa_result--cox1.jplace: EPA-ng output file for phylogenitic placement of query sequences.
+> epa_result.jplace: EPA-ng output file for phylogenitic placement of query sequences.
 
 
 
@@ -43,7 +43,7 @@ Three folders (i.e., 12S, cox1 and MLST) are provided. Each of them containing t
 > epidemio_multibar.txt: descreptive statistics showing the distribution of sequences according to the isolation source
 
 
-# Jplace file used in the paper are available from the following links
+# Jplace file used in the paper are available as predited files in:
 
 > cox1 tree: https://itol.embl.de/tree/1095222034364991637522955 
 
