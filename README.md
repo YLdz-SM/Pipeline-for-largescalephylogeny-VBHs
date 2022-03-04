@@ -57,15 +57,17 @@ Three folders (i.e., 12S, cox1 and MLST) are provided. Each of them containing t
 
 1. [Sequence Retrival: [MSA-Viewer](https://www.ncbi.nlm.nih.gov/projects/msaviewer/)]
 2. [A-A-A Sequence Comparison: [TaxI2 tool](https://github.com/iTaxoTools/TaxI2.git)] 
-3. [Reference Sequence Alignement: [MAFFT](https://github.com/GSLBiotech/mafft.git)] 
-4. [ML Phylogeny: [Iqtree2](https://github.com/iqtree/iqtree2.git)] 
-5. [Query Sequence Alignement: [HMMER](https://github.com/EddyRivasLab/hmmer.git)] 
-6. [Phylogenitic placement: [EPA-ng](https://github.com/Pbdas/epa-ng.git)]
-7. [Tree Editing: [iTOL](https://github.com/iBiology/iTOL.git)]
+3. [Reference Sequence Alignement: [MAFFT](https://github.com/GSLBiotech/mafft.git)]
+4. [Sequence Concatenation: [SeaView](http://doua.prabi.fr/software/seaview)] 
+5. [ML Phylogeny: [Iqtree2](https://github.com/iqtree/iqtree2.git)] 
+6. [Query Sequence Alignement: [HMMER](https://github.com/EddyRivasLab/hmmer.git)] 
+7. [Phylogenitic placement: [EPA-ng](https://github.com/Pbdas/epa-ng.git)]
+8. [Tree Editing: [iTOL](https://github.com/iBiology/iTOL.git)]
+9. 
 
 # Citation
 If you use the above data, please cite the following paper:
 
-Younes Laidoudi, Samia Bedjaoui, Maria Stefania Latrofa, Angela Fanelli, Filipe Dantas-Torres, Domenico Otranto. Genetic and geographical delineation of zoonotic vector-borne helminths of canids. Scientific Repport Journal
+Younes Laidoudi, Samia Bedjaoui, Maria Stefania Latrofa, Angela Fanelli, Filipe Dantas-Torres, Domenico Otranto. Genetic and geographical delineation of zoonotic vector-borne helminths of canids. *Scientific Reports Journal
 
 
