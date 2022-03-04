@@ -36,7 +36,7 @@ Three folders (i.e., 12S, cox1 and MLST) are provided. Each of them containing t
 
 > Labels.txt: Sequence labels 
 
-> Species delimitation.txt: Result of species deliitations algorithms
+> Species delimitation.txt: Result of species clustering 
 
 > alignement.txt: alignement of informative sites
 
