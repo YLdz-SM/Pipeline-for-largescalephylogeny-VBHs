@@ -45,6 +45,6 @@ Three folders are provided for the 12S, cox1 and MLST phylogenitic analysis. Eac
 # Citation
 If you use the above data, please cite the following paper:
 
-Younes Laidoudi, Samia Bedjaoui, Maria Stefania Latrofa, Angela Fanelli, Filipe Dantas-Torres, Domenico Otranto. Genetic and geographical delineation of zoonotic vector-borne helminths of canids. Scientific Repport Journal
+Younes Laidoudi, Samia Bedjaoui, Maria Stefania Latrofa, Angela Fanelli, Filipe Dantas-Torres, Domenico Otranto. Genetic and geographical delineation of zoonotic vector-borne helminths of canids. Scientific Repport Journalc
 
 
