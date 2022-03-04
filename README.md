@@ -53,8 +53,12 @@ Three folders are provided for the 12S, cox1 and MLST phylogenitic analysis. Eac
 
 # Softwares
 
-1. [Phylogenitic placement: [EPA-ng](https://github.com/Pbdas/epa-ng.git)] (https://anaconda.org/bioconda/epa-ng)
-2. 
+1. [Sequence retrival: [MSA-Viewer](https://www.ncbi.nlm.nih.gov/projects/msaviewer/)] (https://anaconda.org/bioconda/epa-ng)
+2. [AAA sequence comparison: [TaxI2 tool](https://github.com/iTaxoTools/TaxI2.git)] 
+3. [Phylogenitic placement: [EPA-ng](https://github.com/Pbdas/epa-ng.git)] 
+4. [Phylogenitic placement: [EPA-ng](https://github.com/Pbdas/epa-ng.git)] 
+5. [Phylogenitic placement: [EPA-ng](https://github.com/Pbdas/epa-ng.git)]
+6. 
 
 # Citation
 If you use the above data, please cite the following paper:
