@@ -3,8 +3,7 @@
 
 1. **[Introduction](#Introduction)**
 2. **[Data](#Key-input-and-output-files-used-in-the-present-study)**
-3. **[Results](#Jplace-file-are-available-as-predited-files-in:)**
-4. **[Other repository](#Jplace-file-are-available-as-predited-files-in:)**
+3. **[Results](#-Jplace-file-are-available-as-predited-files-in:)**
 5. **[Softwares](#Softwares)**
 6. **[Citing this repository](#Citation)**
 
