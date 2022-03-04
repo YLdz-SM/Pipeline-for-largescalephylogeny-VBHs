@@ -3,7 +3,7 @@
 
 1. **[Introduction](#Introduction)**
 2. **[Data](#Key-input-and-output-files-used-in-the-present-study)**
-3. **[Results](#Jplace-file-are-available-as-pre-edited-files-in)**
+3. **[Results](#Final-*.jplace-Files-are-Available-as-Pre-edited-Trees-in)**
 5. **[Softwares](#Softwares)**
 6. **[Citing this repository](#Citation)**
 
@@ -43,7 +43,8 @@ Three folders (i.e., 12S, cox1 and MLST) are provided. Each of them containing t
 > epidemio_multibar.txt: descreptive statistics showing the distribution of sequences according to the isolation source
 
 
-# Jplace file are available as pre-edited files in
+
+# Final *.jplace Files are Available as Pre-edited Trees in
 
 > cox1 tree: https://itol.embl.de/tree/1095222034364991637522955 
 
