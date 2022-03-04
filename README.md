@@ -1,6 +1,6 @@
-1. **[Introduction](#Genetic and geographical delineation of zoonotic vector borne helminths of canids)**
-2. **[Data](#Key input and output files used in the present study)**
-3. **[Other repository](#Jplace file used in the paper are available from the following links)**
+1. **[Introduction](# Genetic and geographical delineation of zoonotic vector borne helminths of canids)**
+2. **[Data](# Key input and output files used in the present study)**
+3. **[Other repository](# Jplace file used in the paper are available from the following links)**
 4. **[Citing this repository](#Citation)**
 5. **[Test data](#test-data)**
 6. **[Citing EPA-ng](#citing-epa-ng)**
