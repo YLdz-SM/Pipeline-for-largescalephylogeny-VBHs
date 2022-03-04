@@ -1,12 +1,15 @@
-1. **[Introduction](#Genetic-and-geographical-delineation-of-zoonotic-vector-borne-helminths-of-canids)**
-2. **[Data](# Key input and output files used in the present study)**
-3. **[Other repository](# Jplace file used in the paper are available from the following links)**
-4. **[Citing this repository](#Citation)**
-5. **[Test data](#test-data)**
-6. **[Citing EPA-ng](#citing-epa-ng)**
-
-
 # Genetic and geographical delineation of zoonotic vector borne helminths of canids
+
+
+1. **[Introduction](#Introduction)**
+2. **[Data](#Key-input-and-output-files-used-in-the-present-study)**
+3. **[Other repository](#Jplace-file-used-in-the-paper-are-available-from-the-following-links)**
+4. **[Softwares](#Softwares)**
+5. **[Citing this repository](#Citation)**
+
+
+
+# Introduction
 Several zoonotic vector-borne helminths (VBHs) infesting canids cause serious veterinary and medical diseases worldwide. Increasing the knowledge about their genetic structures is pivotal to identify them and therefore to settle effective surveillance and control measures. To overcome the limitation due to the heterogeneity of large DNA sequence datasets used for their genetic characterization, we provide here a pipline for phylogenetic analysis on large sequence datasets (i.e., all available cox1 and 12S  from GenBank at January 2022) from public database.
 
 
@@ -26,7 +29,6 @@ Three folders are provided for the 12S, cox1 and MLST phylogenitic analysis. Eac
 
 > epa_result--cox1.jplace: EPA-ng output file for phylogenitic placement of query sequences.
 
-[Phylogenitic placement: [EPA-ng](https://github.com/Pbdas/epa-ng.git)] (https://anaconda.org/bioconda/epa-ng)
 
 
 
@@ -49,6 +51,10 @@ Three folders are provided for the 12S, cox1 and MLST phylogenitic analysis. Eac
 
 > MLST tree: https://itol.embl.de/tree/109522205480771637547090
 
+# Softwares
+
+1. [Phylogenitic placement: [EPA-ng](https://github.com/Pbdas/epa-ng.git)] (https://anaconda.org/bioconda/epa-ng)
+2. 
 
 # Citation
 If you use the above data, please cite the following paper:
