@@ -3,7 +3,7 @@ Several zoonotic vector-borne helminths (VBHs) infesting canids cause serious ve
 
 # Key input and output files used in the present study
 
-Three ffolders are provided for the 12S, cox1 and MLST phylogenitic analysis. Each of them containing the following:
+Three folders are provided for the 12S, cox1 and MLST phylogenitic analysis. Each of them containing the following:
 
 # Files used to generate the ML phylogeny and phylogenitic placement
 
