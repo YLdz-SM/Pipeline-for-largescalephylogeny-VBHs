@@ -1,11 +1,22 @@
+1. **[Introduction](#Genetic and geographical delineation of zoonotic vector borne helminths of canids)**
+2. **[Data](#Key input and output files used in the present study)**
+3. **[Other repository](#Jplace file used in the paper are available from the following links)**
+4. **[Citing this repository](#Citation)**
+5. **[Test data](#test-data)**
+6. **[Citing EPA-ng](#citing-epa-ng)**
+
+
 # Genetic and geographical delineation of zoonotic vector borne helminths of canids
 Several zoonotic vector-borne helminths (VBHs) infesting canids cause serious veterinary and medical diseases worldwide. Increasing the knowledge about their genetic structures is pivotal to identify them and therefore to settle effective surveillance and control measures. To overcome the limitation due to the heterogeneity of large DNA sequence datasets used for their genetic characterization, we provide here a pipline for phylogenetic analysis on large sequence datasets (i.e., all available cox1 and 12S  from GenBank at January 2022) from public database.
+
+
+
 
 # Key input and output files used in the present study
 
 Three folders are provided for the 12S, cox1 and MLST phylogenitic analysis. Each of them containing the following:
 
-# Files used to generate the ML phylogeny and phylogenitic placement
+## Files used to generate the ML phylogeny and phylogenitic placement
 
 > REFMSA--12S.fasta: Multi-sequence alignement on selected reference sequences
 
@@ -19,7 +30,7 @@ Three folders are provided for the 12S, cox1 and MLST phylogenitic analysis. Eac
 
 
 
-# Annotation files used to annotate the tree within iTOL software
+## Annotation files used to annotate the tree within iTOL software
 
 > Labels.txt: Sequence labels 
 
@@ -30,7 +41,7 @@ Three folders are provided for the 12S, cox1 and MLST phylogenitic analysis. Eac
 > epidemio_multibar.txt: descreptive statistics showing the distribution of sequences according to the isolation source
 
 
-# Jplace file used in the paper are available from the following links:
+# Jplace file used in the paper are available from the following links
 
 > cox1 tree: https://itol.embl.de/tree/1095222034364991637522955 
 
