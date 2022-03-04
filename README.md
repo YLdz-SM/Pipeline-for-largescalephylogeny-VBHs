@@ -15,7 +15,7 @@ Three folders are provided for the 12S, cox1 and MLST phylogenitic analysis. Eac
 
 > epa_result--cox1.jplace: EPA-ng output file for phylogenitic placement of query sequences.
 
-[![Conda install](https://anaconda.org/bioconda/epa-ng/badges/installer/conda.svg)](https://anaconda.org/bioconda/epa-ng)
+[![EPA-ng](https://anaconda.org/bioconda/epa-ng/badges/installer/conda.svg)](gh repo clone Pbdas/epa-ng)
 [![Conda install](https://anaconda.org/bioconda/epa-ng/badges/downloads.svg)](https://anaconda.org/bioconda/epa-ng)
 [![ubuntu CI status](https://github.com/Pbdas/epa-ng/workflows/build&test_ubuntu/badge.svg)](https://github.com/Pbdas/epa-ng/actions)
 [![macOS CI status](https://github.com/Pbdas/epa-ng/workflows/build&test_macos/badge.svg)](https://github.com/Pbdas/epa-ng/actions)
