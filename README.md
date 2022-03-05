@@ -1,7 +1,7 @@
 # Genetic and geographical delineation of zoonotic vector borne helminths of canids
 
 
-1. **[Introduction](#Introduction)**
+1. **[1. Introduction](#Introduction)**
 2. **[Data](#Key-input-and-output-files-used-in-the-present-study)**
 3. **[Results](#Final-*.jplace-Files-are-Available-as-Pre-edited-Trees)**
 5. **[Softwares](#Softwares)**
@@ -23,11 +23,11 @@ Three folders (i.e., 12S, cox1 and MLST) are provided. Each of them containing t
 
 > REFMSA.fasta: Multi-sequence alignement on selected reference sequences
 
-> Query.fasta: Multi-sequence alignement on all query sequences available from GenBank at January 2022.
+> Query.fasta: Multi-sequence alignement on all query sequences available from GenBank at January 2022
 
 > TREE features.txt: iqtree output file
 
-> epa_result.jplace: EPA-ng output file for phylogenitic placement of query sequences.
+> epa_result.jplace: EPA-ng output. (phylogenitic placement of query sequences)
 
 
 
