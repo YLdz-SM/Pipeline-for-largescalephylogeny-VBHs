@@ -59,7 +59,7 @@ Three folders (i.e., 12S, cox1 and MLST) are provided. Each of them containing t
 
 # Softwares
 
-1. [Sequence Retrival:[MSA-Viewer](https://www.ncbi.nlm.nih.gov/projects/msaviewer/)] (https://www.ncbi.nlm.nih.gov/projects/msaviewer/)
+1. [Sequence Retrival:[MSA-Viewer](https://www.ncbi.nlm.nih.gov/projects/msaviewer/)]
 2. [A-A-A Sequence Comparison: [TaxI2 tool](https://github.com/iTaxoTools/TaxI2.git)] 
 3. [Reference Sequence Alignement: [MAFFT](https://github.com/GSLBiotech/mafft.git)]
 4. [Sequence Concatenation: [SeaView](http://doua.prabi.fr/software/seaview)] 
@@ -67,6 +67,7 @@ Three folders (i.e., 12S, cox1 and MLST) are provided. Each of them containing t
 6. [Query Sequence Alignement: [HMMER](https://github.com/EddyRivasLab/hmmer.git)] 
 7. [Phylogenitic Placement: [EPA-ng](https://github.com/Pbdas/epa-ng.git)]
 8. [Tree Editing: [iTOL](https://github.com/iBiology/iTOL.git)]
+9. [Chat: [Gitter](https://matrix.to/#/#Pipline:matrix.org)]
 
 # Citation
 If you use the above data, please cite the following paper:
