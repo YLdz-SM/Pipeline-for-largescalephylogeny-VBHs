@@ -21,7 +21,8 @@ Several zoonotic vector-borne helminths (VBHs) infesting canids cause serious ve
 
 # Key input/output files used in the present study
 
-Three folders (i.e., 12S, cox1 and MLST) are provided. Each of them containing the following:
+Three folders (i.e., 12S, cox1 and MLST) are provided. Each of them containing the following
+
 
 ## Files used to generate the ML phylogeny and phylogenitic placement
 
@@ -38,7 +39,7 @@ Three folders (i.e., 12S, cox1 and MLST) are provided. Each of them containing t
 
 ## Files used to annotate the tree
 
-> Labels.txt: Sequence labels 
+> Labels.txt: Species name and GanBank accession number
 
 > Species delimitation.txt: Result of species clustering 
 
@@ -68,6 +69,7 @@ Three folders (i.e., 12S, cox1 and MLST) are provided. Each of them containing t
 7. [Phylogenitic Placement: [EPA-ng](https://github.com/Pbdas/epa-ng.git)]
 8. [Tree Editing: [iTOL](https://github.com/iBiology/iTOL.git)]
 9. [Chat: [Gitter](https://matrix.to/#/#Pipline:matrix.org)]
+
 
 # Citation
 If you use the above data, please cite the following paper:
