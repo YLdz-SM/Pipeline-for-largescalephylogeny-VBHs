@@ -50,7 +50,7 @@ Three folders (i.e., 12S, cox1 and MLST) are provided. Each of them containing t
 
 # Final *.jplace Files are Available as Pre-edited Trees
 
-> [![cox1](https://itol.embl.de/tree/1095222034364991637522955)]
+> [Fig. 1: [cox1](https://itol.embl.de/tree/1095222034364991637522955)]
 
 > [Fig. 2: [12S](https://itol.embl.de/tree/1095222034318181637538254)]
 
