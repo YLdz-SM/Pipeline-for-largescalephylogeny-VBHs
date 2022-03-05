@@ -72,4 +72,4 @@ Three folders (i.e., 12S, cox1 and MLST) are provided. Each of them containing t
 # Citation
 If you use the above data, please cite the following paper:
 
-Younes Laidoudi, Samia Bedjaoui, Maria Stefania Latrofa, Angela Fanelli, Filipe Dantas-Torres, Domenico Otranto. Genetic and geographical delineation of zoonotic vector-borne helminths of canids. Scientific Reports Journal.
+Laidoudi et al., 2022. Genetic and geographical delineation of zoonotic vector-borne helminths of canids. Scientific Reports Journal.
