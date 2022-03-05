@@ -1,11 +1,11 @@
 # Genetic and geographical delineation of zoonotic vector borne helminths of canids
 
 
-1. **[1. Introduction](#Introduction)**
-2. **[Data](#Key-input-and-output-files-used-in-the-present-study)**
-3. **[Results](#Final-*.jplace-Files-are-Available-as-Pre-edited-Trees)**
-5. **[Softwares](#Softwares)**
-6. **[Citing this repository](#Citation)**
+**[1. Introduction](#Introduction)**
+**[2. Data](#Key-input-and-output-files-used-in-the-present-study)**
+**[3. Results](#Final-*.jplace-Files-are-Available-as-Pre-edited-Trees)**
+**[4. Softwares](#Softwares)**
+**[5. Citing this repository](#Citation)**
 
 
 
