@@ -67,7 +67,7 @@ Three folders (i.e., 12S, cox1 and MLST) are provided. Each of them containing t
 5. [ML Phylogeny: [Iqtree2](https://github.com/iqtree/iqtree2.git)] 
 6. [Query Sequence Alignement: [HMMER](https://github.com/EddyRivasLab/hmmer.git)] 
 7. [Phylogenitic Placement: [EPA-ng](https://github.com/Pbdas/epa-ng.git)]
-8. [Tree Editing: [iTOL](https://github.com/iBiology/iTOL.git)]
+8. [Tree Editing: [iTOL-v5](https://github.com/iBiology/iTOL.git)]
 9. [Chat: [Gitter](https://matrix.to/#/#Pipline:matrix.org)]
 
 
