@@ -75,3 +75,4 @@ Three folders (i.e., 12S, cox1 and MLST) are provided. Each of them containing t
 If you use the above data, please cite the following paper:
 
 Laidoudi et al., 2022. Genetic and geographical delineation of zoonotic vector-borne helminths of canids. Scientific Reports Journal.
+https://doi.org/10.1038/s41598-022-10553-w
