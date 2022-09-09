@@ -3,9 +3,6 @@
 
 **[1. Introduction](#Introduction)**
 
-![Fifure 4](https://user-images.githubusercontent.com/68795566/189247008-58ca4161-7096-4a57-b566-ef7775304109.png)
-
-
 **[2. Data](#Key-input-and-output-files-used-in-the-present-study)**
 
 **[3. Results](#Final-*.jplace-Files-are-Available-as-Pre-edited-Trees)**
@@ -19,6 +16,7 @@
 # Introduction
 Several zoonotic vector-borne helminths (VBHs) infesting canids cause serious veterinary and medical diseases worldwide. Increasing the knowledge about their genetic structures is pivotal to identify them and therefore to settle effective surveillance and control measures. To overcome the limitation due to the heterogeneity of large DNA sequence datasets used for their genetic characterization, we provide here a pipline for phylogenetic analysis on large sequence datasets (i.e., all available cox1 and 12S  from GenBank at January 2022) from public database.
 
+![Fifure 4](https://user-images.githubusercontent.com/68795566/189247008-58ca4161-7096-4a57-b566-ef7775304109.png)
 
 
 
