@@ -3,6 +3,9 @@
 
 **[1. Introduction](#Introduction)**
 
+![Fifure 4](https://user-images.githubusercontent.com/68795566/189247008-58ca4161-7096-4a57-b566-ef7775304109.png)
+
+
 **[2. Data](#Key-input-and-output-files-used-in-the-present-study)**
 
 **[3. Results](#Final-*.jplace-Files-are-Available-as-Pre-edited-Trees)**
@@ -53,9 +56,18 @@ Three folders (i.e., 12S, cox1 and MLST) are provided. Each of them containing t
 
 > [Fig. 1: [cox1](https://itol.embl.de/tree/1095222034364991637522955)]
 
+![Figure 1](https://user-images.githubusercontent.com/68795566/189246815-40a89bcc-8da8-4148-8125-970c843f954b.JPEG)
+
+
 > [Fig. 2: [12S](https://itol.embl.de/tree/1095222034318181637538254)]
 
+![Figure 2](https://user-images.githubusercontent.com/68795566/189246901-475c72de-339a-4eff-b3ad-63b35417ee8b.JPEG)
+
+
+
 > [Fig. 3: [MLST](https://itol.embl.de/tree/109522205480771637547090)] 
+
+![Figure 3](https://user-images.githubusercontent.com/68795566/189246918-09121221-b43b-4e01-8ac3-c7d04b99972f.JPEG)
 
 
 # Softwares
